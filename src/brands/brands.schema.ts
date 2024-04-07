@@ -31,6 +31,12 @@ export class Brand {
     min: [1, 'There should be at least one location'],
   })
   numberOfLocations: Number;
+
+  @Prop()
+  createdAt?: Date;
+
+  @Prop()
+  updatedAt?: Date;
 }
 
 export const BrandSchema = SchemaFactory.createForClass(Brand);
