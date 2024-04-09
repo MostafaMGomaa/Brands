@@ -6,11 +6,13 @@ import { Brand } from './brands.schema';
 @Injectable()
 export class BrandsService {
   constructor(@InjectModel(Brand.name) private brandModel: Model<Brand>) {}
-
   /**
-   * This aggragation may take longer time than the one in `brands.serveice.old` cuz
-   * its convert the 'yearsFounded' and 'yearCreated' to int while 'yearFound' could be valid number
+   * This aggregation may take a longer time compared to the one in `brands.service.ts` because
+   * it includes unnecessary conversions of 'yearsFounded' and 'yearCreated' to integers.
+   * These conversions are performed even when 'yearFounded' might already be a valid number,
+   * resulting in an inefficient transformation process.
    */
+
   async validateAndTransformData(): Promise<any[]> {
     // Perform the data transformation with aggregation pipeline
     await this.brandModel.aggregate([
