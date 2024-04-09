@@ -7,6 +7,10 @@ import { Brand } from './brands.schema';
 export class BrandsService {
   constructor(@InjectModel(Brand.name) private brandModel: Model<Brand>) {}
 
+  /**
+   * This aggragation may take longer time than the one in `brands.serveice.old` cuz
+   * its convert the 'yearsFounded' and 'yearCreated' to int while 'yearFound' could be valid number
+   */
   async validateAndTransformData(): Promise<any[]> {
     // Perform the data transformation with aggregation pipeline
     await this.brandModel.aggregate([

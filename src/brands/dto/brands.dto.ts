@@ -3,6 +3,8 @@ import { ObjectId } from 'mongoose';
 export interface BrandDto {
   _id: ObjectId;
 
+  __v: number;
+
   brandName: string;
 
   yearFounded: number;
@@ -11,7 +13,7 @@ export interface BrandDto {
 
   numberOfLocations: number;
 
-  createdAt?: Date;
+  createdAt: Date;
 
-  updatedAt?: Date;
+  updatedAt: Date;
 }

@@ -14,4 +14,9 @@ export class BrandsController {
   async createFakeData() {
     return await this.brandsService.genFakeData();
   }
+
+  @Get('exportToExcel')
+  async exportSeedDataToExcel(): Promise<string> {
+    return await this.brandsService.exportToExcel();
+  }
 }
