@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearFounded": 1970,
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "yearFounded": 1980,
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "headquarters": "DuBuqueburgh",
+  "numberOfLocations": 9200
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "brandName": "Licensed Concrete Tuna",
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1f9"
+  },
+  "brandName": "Streich - Fahey",
+  "yearFounded": 1837,
+  "headquarters": "Wittingstead, Tunisia",
+  "numberOfLocations": 360
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1fa"
+  },
+  "brandName": "Kerluke, Osinski and Larson",
+  "yearFounded": 2021,
+  "headquarters": "New Blairhaven, Guadeloupe",
+  "numberOfLocations": 5
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1fb"
+  },
+  "brandName": "O'Hara, Towne and Buckridge",
+  "yearFounded": 1870,
+  "headquarters": "Cathedral City, French Southern Territories",
+  "numberOfLocations": 506
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1fc"
+  },
+  "brandName": "Tillman, Koepp and Haley",
+  "yearFounded": 1748,
+  "headquarters": "Port Leilani, Zimbabwe",
+  "numberOfLocations": 834
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1fd"
+  },
+  "brandName": "Nicolas Inc",
+  "yearFounded": 1764,
+  "headquarters": "West Assunta, Lesotho",
+  "numberOfLocations": 352
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1fe"
+  },
+  "brandName": "Koch - Satterfield",
+  "yearFounded": 1957,
+  "headquarters": "Crawfordville, Togo",
+  "numberOfLocations": 904
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b1ff"
+  },
+  "brandName": "Marks Inc",
+  "yearFounded": 1864,
+  "headquarters": "Mishawaka, Burkina Faso",
+  "numberOfLocations": 919
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b200"
+  },
+  "brandName": "Beier - Simonis",
+  "yearFounded": 1802,
+  "headquarters": "South Kyleigh, South Africa",
+  "numberOfLocations": 374
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b201"
+  },
+  "brandName": "Olson, Hickle and White",
+  "yearFounded": 1835,
+  "headquarters": "Lee's Summit, Moldova",
+  "numberOfLocations": 876
+},{
+  "_id": {
+    "$oid": "6614ac92f5c69407b456b202"
+  },
+  "brandName": "Wintheiser - Wolff",
+  "yearFounded": 1785,
+  "headquarters": "Vonshire, Cuba",
+  "numberOfLocations": 249
+}]
